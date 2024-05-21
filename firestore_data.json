@@ -1,0 +1,24 @@
+{
+    "0gzcixGt44jahOFECZ19": {
+        "slot2Quantity": "",
+        "slot1Alarm": "20:53",
+        "slot1": "jelusil",
+        "id": "0gzcixGt44jahOFECZ19",
+        "slot2": "Arginine",
+        "role": "caretaker",
+        "slot2Alarm": "01:34",
+        "slot1Quantity": "10",
+        "editMode": false,
+        "name": "B1120"
+    },
+    "4lUMGrqD3ffOMsJ6g9AQ": {
+        "slot1Alarm": "",
+        "slot1": "",
+        "slot2": "",
+        "role": "doctor",
+        "slot2Alarm": "",
+        "slot1Quantity": "",
+        "slot2Quantity": "",
+        "name": "B1223"
+    }
+}
